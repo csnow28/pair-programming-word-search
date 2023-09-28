@@ -1,5 +1,7 @@
 # Pair Programming: Word Search
 
+Completed by: @csnow28 and @izziej7
+
 This challenge comes with some initial (buggy!) code. We suggest approaching this problem with a TDD mindset, meaning "write tests, make the tests pass, repeat!".
 
 Start by forking this repository, and cloning your fork. Then, run `npm install` in the directory to install all the dependencies. This project has Mocha for running tests, and you'll find that there are already some tests present.
